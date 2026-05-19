@@ -1,0 +1,17 @@
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #ffffff;
+
+}
+
+li {
+    margin-bottom: 10px;
+    margin-top: 5px;
+
+}
+
+.delred {
+    text-decoration: line-through;
+    color: rgb(226, 0, 0);
+}
